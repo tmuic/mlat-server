@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-import cairo, colorsys
+import cairocffi as cairo, colorsys
 import csv, math, json, time, sys, gzip
 from contextlib import closing
 
